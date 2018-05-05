@@ -1,0 +1,17 @@
+{
+  "name": "devoxx-2018-vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Quentin Tomasicchio",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  },
+  "dependencies": {}
+}
